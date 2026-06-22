@@ -1,0 +1,14 @@
+Link Video:
+https://www.youtube.com/watch?v=jxq4-KSB_OA
+===============================================
+
+Langkah:
+(DONE) 1. Autofit column and rows
+(DONE) 2. Hapus semua di dalam tanda kurung kolom client
+(DONE) 3. Lowercasing client. pake kolom baru. Paste as value dan hapus kolom asli
+(DONE) 4. Buat kolom kontak rapi (spasi berlebih dan konsistensi huruf (proper))
+(DONE) 5. Buat kolom region pake text to column kolom department
+(DONE) 6. Remove dupliacated
+(DONE) 7. Label computation pake find go to special replace pake NA (gatau ngaruh ke tipe data apa ga)
+(DONE) 8. Pake if error untuk kolom profit margin. ganti ke NA
+(DONE) 9. Format tabel
