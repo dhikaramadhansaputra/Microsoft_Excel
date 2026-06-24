@@ -1,0 +1,14 @@
+Link Video:
+https://www.youtube.com/watch?v=oT4emh72fuA
+=================================================
+
+Steps:
+
+BUAT TABEL DULU BIAR GAMPANG?
+
+(DONE) 1. Autofit column & row
+(DONE) 2. remove duplicated
+(DONE) 3. hapus spasi berlebih
+(DONE) 4. correcting spelling
+(DONE) 5. iff error, coba tambahkan kolom sales
+(DONE) 6. number format
