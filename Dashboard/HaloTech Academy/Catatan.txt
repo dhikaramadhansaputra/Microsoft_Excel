@@ -1,0 +1,22 @@
+Link:
+https://www.youtube.com/watch?v=Qsw1TFoRpfg
+
+================================================
+
+Steps:
+1. buat pivot dan pivot chart berdasarkan pertanyaan ini
+ (DONE) - total pendapatan
+  (DONE) - total pesanan
+  (DONE) - average pendapatan per pesanan
+  (DONE) - jumlah terjual per kategori
+ (DONE) - top 10 pizza
+ (DONE) - tren revenue
+ (DONE) - revenue berdasarkan kategori dan ukuran
+
+Buat judul dashboard
+
+2. Masukin satu persatu ke dashboard (KPI, visualisasi)
+
+3. bikin filter berdasarkan tanggal dan kategori
+
+Rapikan
